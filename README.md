@@ -20,19 +20,5 @@ Ferrari, Audi, Red Bull e McLaren
 
 O site pode ser acessado pelo GitHub Pages através do link abaixo:
 
-
-
-### Executando localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/phenriqueangelodesouza-collab/site.git
-   ```
-
-2. Abra a pasta do projeto.
-
-3. Abra o arquivo `index.html` em um navegador ou utilize a extensão **Live Server** no VS Code.
-
-
-
+https://phenriqueangelodesouza-collab.github.io/site/
 
